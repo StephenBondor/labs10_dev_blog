@@ -2,7 +2,7 @@
 template: page
 title: About me
 slug: this is my slug
-draft: true
+draft: false
 ---
 Oh Hai!!!!!
 
