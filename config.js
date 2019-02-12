@@ -35,7 +35,7 @@ module.exports = {
             telegram: "#",
             github: "https://github.com/Civoremo",
             rss: "#",
-            vkontakte, "#",
+            vkontakte: "#",
         },
     },
 };
