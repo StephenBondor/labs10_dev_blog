@@ -27,13 +27,13 @@ module.exports = {
     ],
     author: {
         name: "Nedim Omerovic",
-        photo: "/photo.jpg",
+        photo: "/myPhoto.png",
         bio: "Fullstack Web Developer",
         contacts: {
             email: "civoremon@gmail.com",
             twitter: "#",
             telegram: "#",
-            github: "https://github.com/Civoremo",
+            github: "Civoremo",
             rss: "#",
             vkontakte: "#",
         },
